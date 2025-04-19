@@ -6,7 +6,7 @@ Perfect for love-themed pages, art projects, or just to impress someone special 
 
 ## 🌐 Demo
 
-🔗 [View Live on GitHub Pages](https://namakamu.github.io/rawr-hearts)  
+🔗 [View Live on GitHub Pages](https://faelll21.github.io/ciaaa-heartbeats/)  
 *(Ganti link sesuai GitHub Pages kamu ya!)*
 
 ## 📁 Files
